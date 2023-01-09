@@ -1,0 +1,19 @@
+{
+  "name": "inbox_project",
+  "version": "1.0.0",
+  "description": "Project as part of Ethereum and Solidity: The Complete Developer's Guide course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniordf/Inbox_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniordf/Inbox_Project/issues"
+  },
+  "homepage": "https://github.com/antoniordf/Inbox_Project#readme"
+}
