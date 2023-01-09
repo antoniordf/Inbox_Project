@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/antoniordf/Inbox_Project/issues"
   },
-  "homepage": "https://github.com/antoniordf/Inbox_Project#readme"
+  "homepage": "https://github.com/antoniordf/Inbox_Project#readme",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
 }
