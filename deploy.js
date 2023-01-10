@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-  `${SEED_PHRASE}`,
+  'conduct arena main turtle assist buyer domain quiz hello farm oval found',
   'https://goerli.infura.io/v3/b22ed66d49134788ab1616fe0f0812e0'
 );
 
